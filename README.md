@@ -1,2 +1,1 @@
-# demo-git
-Demo using git
+# text file for testing
